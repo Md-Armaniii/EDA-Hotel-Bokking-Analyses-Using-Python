@@ -1,0 +1,3 @@
+Hotel Booking EDA Project
+
+This Python project conducts Exploratory Data Analysis (EDA) on hotel booking data. Utilizing libraries like Pandas, Matplotlib, and Seaborn, it explores various aspects of hotel bookings, including guest demographics, booking patterns, and correlation between different features. The project aims to provide insights into factors influencing hotel bookings, such as booking channels, customer demographics, and booking lead time. Through visualizations like pie charts, bar plots, and heatmaps, the analysis offers a comprehensive understanding of the dataset. By sharing this EDA project on GitHub, we aim to contribute to the data science community by providing a valuable resource for understanding hotel booking trends and patterns.
